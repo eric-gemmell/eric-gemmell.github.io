@@ -2,19 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Carlos Gemmell
+title: Eric Gemmell
 layout: default
 description: Always keen to chat
 ---
-![carlos_gemmell](static/images/carlos_small.jpeg){: style="float: right; margin: 0px 20px; width: 180px;" name="carlos"}
+![eric_gemmell](static/images/eric.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
 
-I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>. Incoming intern at <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">__Meta AI Research__</a> with <a target="_blank" href="http://timoschick.com">Timo Schick</a> and <a target="_blank" href="https://mlomeli1.github.io">Maria Lomeli</a>.
-
-I **led the winning team** for the [__2021-2022 Amazon Alexa Prize TaskBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}.
-
-I explore how language models can decouple memorisation from reasoning. Specifically how they can delegate computation and knowledge by using tools. Similar to how we use calculators to do math. 
-
-I apply my research in the context of __Question Answering__ and __Conversational Systems__ to make language model reasoning more capable and interpretable.
+I'm a **MSci student** Supervisor by Prof <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Jesko Köhnke</a>, working on X-Ray Crystalography and Ancestral Sequence Reconstruction. I have previously worked as a pure medicinal chemist at the pharmaceutical company <a target="_blank" href="https://www.gsk.com/">GSK</a>, in the team of Dr <a target="_blank" href="https://www.linkedin.com/in/phil-humphreys-3b069348/">Phil Humphrey</a>, and as a full stack computer scientist at <a target="_blank" href="https://www.verint.com/">Verint</a>.
 
 ## <span>News </span>
 
