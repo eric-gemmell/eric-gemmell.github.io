@@ -10,7 +10,7 @@ description: Always keen to chat
 
 I'm an **MSci Chemistry student** supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>.
 
-My final year project was working on X-ray Crystallography and Ancestral Sequence Reconstruction, applied to RiPP tailoring enzymes.
+My final year project involves X-ray Crystallography and Ancestral Sequence Reconstruction, applied to RiPP tailoring enzymes.
 
 ## <span>Experience</span>
 __Medicinal Chemistry / Organic Synthesis__
