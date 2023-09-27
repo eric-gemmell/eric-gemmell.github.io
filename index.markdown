@@ -8,7 +8,12 @@ description: Always keen to chat
 ---
 ![eric_gemmell](static/images/eric.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
 
-I'm an **MSci Chemistry student** supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>.
+I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a>. of enzymes for enantioselective and regioselective synthesis
+
+## <span>News</span>
+### 2023
+
+<a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>.
 
 My final year project involves X-ray Crystallography and Ancestral Sequence Reconstruction, applied to RiPP tailoring enzymes.
 
