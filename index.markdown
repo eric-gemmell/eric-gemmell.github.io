@@ -8,10 +8,12 @@ description: Always keen to chat
 ---
 ![eric_gemmell](static/images/eric.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
 
-I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a>. of enzymes for enantioselective and regioselective synthesis
+I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a> of enzymes for enantioselective and regioselective synthesis
 
 ## <span>News</span>
-### 2023
+**2023**
+ - **June** Awarded the ***Professor William Parker Memorial Medal*** for achievinig the highest results in Chemistry 2018-2023. (<a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/news/headline_781842_en.html">link</a>)
+ - **June** Graduated from the University of Glasgow first class MSci in **Medicinal Chemistry**
 
 <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>.
 
