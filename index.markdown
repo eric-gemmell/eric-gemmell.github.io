@@ -14,7 +14,7 @@ I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target
 **2023**
  - **June** - Awarded the ***Professor William Parker Memorial Medal*** for achievinig the highest results in Chemistry 2018-2023. (<a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/news/headline_781842_en.html">link</a>)
  - **June** - Graduated from the University of Glasgow first class MSci in **Medicinal Chemistry**
- - **March** - Solved crystal structure of PsaNAT to 2.6Å
+ - **March** - Solved the **crystal structure** of <a target="_blank" href="static/files/PsaNAT.pdb">PsaNAT</a> to 2.6Å!
 ![test_image](static/images/test_image.gif){: style="float: right; margin: 0px 20px; width: 180px;" name="test"}
 
 
