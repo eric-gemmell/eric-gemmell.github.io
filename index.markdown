@@ -8,21 +8,29 @@ description: Always keen to chat
 ---
 ![eric_gemmell](static/images/eric.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
 
-I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a> of enzymes for enantioselective and regioselective synthesis
+I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a> of enzymes, for altered substrate scope and enhanced reactivity.
+
+I am interested in researching novel methods for genetic diversity generation and coupling enzyme activity to fluorescent readouts.
 
 ## <span>News</span>
 **2023**
+ - **November** - Started new PhD within the Schwaneberg Group, starting work on Aryl sulfotransferases!
  - **June** - Awarded the ***Professor William Parker Memorial Medal*** for achievinig the highest results in Chemistry 2018-2023. (<a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/news/headline_781842_en.html">link</a>)
  - **June** - Graduated from the University of Glasgow first class MSci in **Medicinal Chemistry**
  - **March** - Solved the **crystal structure** of <a target="_blank" href="static/files/PsaNAT.pdb">PsaNAT</a> to 2.6Å
-![test_image](static/images/test_image.gif){: style="float: right; margin: 0px 20px; width: 180px;" name="test"}
 
+**2022**
+ - **August** Completed placement year at the pharmaceutical company GSK!
 
-<a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>.
-
-My final year project involves X-ray Crystallography and Ancestral Sequence Reconstruction, applied to RiPP tailoring enzymes.
 
 ## <span>Experience</span>
+
+__Master's Project__
+Worked on RiPP tailoring enzymes, namely YcaO enzymes, performing Ancestral Sequence Reconstruction, to identify features in reactivity and generate more expressable variants. Worked under the supervision of <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>. Who is now at Hannover University. ![test_image](static/images/test_image.gif){: style="float: right; margin: 0px 20px; width: 180px;" name="test"}
+
+
+Also performed Xray Crystalography for other RiPP tailoring enzymes, namely PsaNAT, identifying structural features required for reactivity.
+
 __Medicinal Chemistry / Organic Synthesis__
 * __Medicinal chemist__ at <a target="_blank" href="https://www.gsk.com/">GSK</a>, working for <a target="_blank" href="https://www.linkedin.com/in/phil-humphreys-3b069348/">Dr Phil Humphrey</a> in oncology.
 * __Medicinal chemistry summer student__ at the University of Glasgow, working for <a target="_blank" href="https://www.chem.gla.ac.uk/jamiesonlab/">Prof Andrew Jamieson</a>. Research funded by a prize from the Carnegie Trust.
