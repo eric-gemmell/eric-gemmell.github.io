@@ -26,6 +26,7 @@ I am interested in researching novel methods for genetic diversity generation an
 ## <span>Experience</span>
 
 __Master's Project__
+
 ![PsaNAT](static/images/PsaNAT.png){: style="float: right; margin: 0px 0px; width: 180px;" name="test"}Worked on RiPP tailoring enzymes, namely YcaO enzymes, performing Ancestral Sequence Reconstruction, to identify features in reactivity and generate more expressable variants. Worked under the supervision of <a target="_blank" href="https://www.gla.ac.uk/schools/chemistry/staff/jeskokohnke/">Prof Jesko Köhnke</a>. Who is now at Hannover University. 
 
 
