@@ -6,11 +6,12 @@ title: Eric Gemmell
 layout: default
 description: Always keen to chat
 ---
-![eric_gemmell](static/images/eric.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
+![eric_gemmell](static/images/45290025~2.JPG){: style="float: right; margin: 0px 20px; width: 180px;" name="eric"}
 
 I'm an **PhD student** at the RWTH University of Aachen, supervised by <a target="_blank" href="https://www.biotec.rwth-aachen.de/cms/BIOTEC/Der-Lehrstuhl/ABBt-Team/~ldbc/Ulrich-Schwaneberg/?allou=1">Prof Schwaneberg</a>. Working on <a target="_blank" href="https://en.wikipedia.org/wiki/Directed_evolution">directed evolution</a> of enzymes, for altered substrate scope and enhanced reactivity.
 
-I am interested in researching novel methods for genetic diversity generation and coupling enzyme activity to fluorescent readouts.
+I am interested in novel methods for genetic diversity generation and coupling enzyme activity to fluorescent readouts.
+
 
 ## <span>News</span>
 **2023**
